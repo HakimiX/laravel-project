@@ -1,0 +1,7 @@
+{
+    "git.ignoreLimitWarning": true,
+    "emmet.includeLanguages": {
+        "blade": "html"
+    },
+    "emmet.triggerExpansionOnTab": true
+}
